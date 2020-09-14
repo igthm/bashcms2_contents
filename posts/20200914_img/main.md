@@ -3,17 +3,17 @@ Keywords:
 Copyright: (C) 2020 Junjie Li
 ---
 
-# 写真
+# Photograph
 
-写真！写真！写真！写真！写真！写真！
+show some photo here
 
-* [写真1](#white)
+* [写真](#edu)
 
-## 青ネギ
+## 子育て
 
-![青ネギ](./img1.jpg)
+![Education](./img1.jpg)
 
-## <span id="white">写真1</span>
+## <span id="edu">写真</span>
 
 ![](img2.jpg)
 
