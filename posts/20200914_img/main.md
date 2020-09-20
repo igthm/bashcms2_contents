@@ -3,7 +3,7 @@ Keywords:
 Copyright: (C) 2020 Junjie Li
 ---
 
-# Photograph
+# 始めての投稿です！
 
 show some photo here
 

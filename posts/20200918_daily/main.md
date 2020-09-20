@@ -1,3 +1,5 @@
+# Ruby勉強メモ
+
 # [小学生でも分かるRuby on Rails入門](https://openbook4.me/projects/92/)
 
 ### アプリスケルトンの生成
