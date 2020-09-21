@@ -1,3 +1,8 @@
+---
+Keywords: ShellScript
+Copyright: (C) 2020 Junjie Li
+---
+
 # Shellメモ
 
 - grep -m 1
