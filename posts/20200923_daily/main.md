@@ -1,5 +1,5 @@
 ---
-Keywords: bash, daily
+Keywords: bash,DailyArticle
 Copyright: (C) 2020 Junjie Li
 ---
 

@@ -1,5 +1,5 @@
 ---
-Keywords: Ruby, 小学生でもわかる, Ruby入門
+Keywords: Ruby,小学生でもわかる,Ruby入門
 Copyright: (C) 2020 Junjie Li
 ---
 

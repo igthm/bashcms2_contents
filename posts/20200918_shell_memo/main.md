@@ -1,5 +1,5 @@
 ---
-Keywords: ShellScript
+Keywords: ShellScript,bash
 Copyright: (C) 2020 Junjie Li
 ---
 
